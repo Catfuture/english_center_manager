@@ -1,0 +1,9 @@
+F:\DoAn_QLTT_NguyenThiLanAnh\BUS_QLTT\bin\Debug\BUS_QLTT.dll
+F:\DoAn_QLTT_NguyenThiLanAnh\BUS_QLTT\bin\Debug\BUS_QLTT.pdb
+F:\DoAn_QLTT_NguyenThiLanAnh\BUS_QLTT\bin\Debug\DAL_QLTT.dll
+F:\DoAn_QLTT_NguyenThiLanAnh\BUS_QLTT\bin\Debug\ET_QLTT.dll
+F:\DoAn_QLTT_NguyenThiLanAnh\BUS_QLTT\bin\Debug\DAL_QLTT.pdb
+F:\DoAn_QLTT_NguyenThiLanAnh\BUS_QLTT\bin\Debug\ET_QLTT.pdb
+F:\DoAn_QLTT_NguyenThiLanAnh\BUS_QLTT\obj\Debug\BUS_QLTT.csprojResolveAssemblyReference.cache
+F:\DoAn_QLTT_NguyenThiLanAnh\BUS_QLTT\obj\Debug\BUS_QLTT.dll
+F:\DoAn_QLTT_NguyenThiLanAnh\BUS_QLTT\obj\Debug\BUS_QLTT.pdb
